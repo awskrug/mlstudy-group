@@ -1,5 +1,4 @@
-# mlstudy-group
-머신러닝 스터디그룹
+# AWSKRUG 머신러닝 스터디 그룹
 
 ---
 
