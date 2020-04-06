@@ -4,7 +4,7 @@
 
 ### 7번째 모임 (2020년 5월 06일 수요일 오후 7시)
 
-- 장소: 온라인 모임 (https://chime.aws/awskrug-mlstudy-group)
+- 장소: 온라인 모임 [Chime [link](https://chime.aws/awskrug-mlstudy-group)]
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/269883455/)]
 
 #### 발표 세션
@@ -15,7 +15,7 @@
 ---
 ### 6번째 모임 (2020년 4월 01일 수요일 오후 7시)
 
-- 장소: 온라인 모임 (https://chime.aws/awskrug-mlstudy-group)
+- 장소: 온라인 모임 [Chime [link](https://chime.aws/awskrug-mlstudy-group)]
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/269497749/)]
 
 #### 발표 세션
