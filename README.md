@@ -1,21 +1,19 @@
 # AWSKRUG 머신러닝 스터디 그룹
-
 ---
 
 ### 7번째 모임 (2020년 5월 06일 수요일 오후 7시)
 
-- 장소: 온라인 모임 [[chime link](https://chime.aws/awskrug-mlstudy-group)]
+- 장소: 온라인 모임
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/269883455/)]
 
 #### 발표 세션
-
-1. 최의용(삼정 KPMG) - 머신러닝 프로젝트 처음부터 끝까지 (핸즈온 머신러닝 챕터2)
-2. 정도현(AWS) - SageMaker의 신기능 소개
+1. 박해선 (핸즈온 머신러닝 역자) - 핸즈온 머신러닝의 1판과 2판의 차이점 [[link](https://docs.google.com/presentation/d/1ktQ8pfi6WupBIhEYt1vVSHJcH-nyK5W30YqkF_sqMdg/edit?fbclid=IwAR3uC3-A7jfd2AugJWNYzGMw2JwtTBsQprCq4tMDqP5NnD1heG9WufSfe3k#slide=id.p)]
+2. 최의용(삼정 KPMG) - 머신러닝 프로젝트 처음부터 끝까지 (핸즈온 머신러닝 챕터2)
 
 ---
 ### 6번째 모임 (2020년 4월 01일 수요일 오후 7시)
 
-- 장소: 온라인 모임 [[chime link](https://chime.aws/awskrug-mlstudy-group)]
+- 장소: 온라인 모임
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/269497749/)]
 
 #### 발표 세션
