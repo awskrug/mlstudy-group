@@ -8,7 +8,7 @@
 
 #### 발표 세션
 1. 박해선 (핸즈온 머신러닝 역자) - 핸즈온 머신러닝의 1판과 2판의 차이점 [[link](https://docs.google.com/presentation/d/1ktQ8pfi6WupBIhEYt1vVSHJcH-nyK5W30YqkF_sqMdg/edit?fbclid=IwAR3uC3-A7jfd2AugJWNYzGMw2JwtTBsQprCq4tMDqP5NnD1heG9WufSfe3k#slide=id.p)]
-2. 최의용(삼정 KPMG) - 머신러닝 프로젝트 처음부터 끝까지 (핸즈온 머신러닝 챕터2)
+2. 최의용(삼정 KPMG) - 머신러닝 프로젝트 처음부터 끝까지 (핸즈온 머신러닝 챕터2) [[link](https://unfinishedgod.github.io/docs/python/handson_ml_chapter2.html?fbclid=IwAR0CYi0Ud4dW0-HoYDlSkIq4fISIrLCOKATOc6ckzRN5nYANC5DHQRIp48Y)]
 
 ---
 ### 6번째 모임 (2020년 4월 01일 수요일 오후 7시)
