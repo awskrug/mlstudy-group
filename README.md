@@ -1,6 +1,16 @@
 # AWSKRUG 머신러닝 스터디 그룹
 ---
 
+### 8번째 모임 (2020년 6월 04일 수요일 오후 7시)
+
+- 장소: 온라인 모임
+- 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/270658679/)]
+
+#### 발표 세션
+1. 김주현 - '분류' (핸즈온 머신러닝 챕터3) [[link](https://colab.research.google.com/drive/1pty_3g4jQuUCKLDWcRNAoCBWgSvr65vl)]
+2. 정도현 - 의식의 흐름에 따라 머신러닝을 공부해 보자
+
+---
 ### 7번째 모임 (2020년 5월 06일 수요일 오후 7시)
 
 - 장소: 온라인 모임
