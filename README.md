@@ -6,8 +6,8 @@
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/271468605/)]
 
 #### 발표 세션
-1. 김두진 - '서포트 벡터 머신' (도서 핸즈온 머신러닝 2판 챕터5)
-2. 김대근 (AWS) - 'AWS 머신러닝 스페셜SA 김대근님의 데이터 과학 경험담 & 삽질기'
+1. 김두진 - '서포트 벡터 머신' (도서 핸즈온 머신러닝 2판 챕터5) [[link]](https://drive.google.com/file/d/1k3UEeMMdqzc75minNOdp8zgnrVOATyHv/view?usp=sharing)
+2. 김대근 (AWS) - 'AWS 머신러닝 스페셜SA 김대근님의 데이터 과학 경험담 & 삽질기' 
 
 ---
 ### 9번째 모임 (2020년 7월 01일 수요일 오후 7시)
@@ -17,7 +17,7 @@
 
 #### 발표 세션
 1. 백혜림 - '모델 훈련' (도서 핸즈온 머신러닝 2판 챕터4)
-2. 임진수 - '자연어 처리를 공부하는 입문자를 위한 Contextual Word Representation 안내서'
+2. 임진수 - '자연어 처리를 공부하는 입문자를 위한 Contextual Word Representation 안내서' [[link]](https://drive.google.com/file/d/1H3qvPFV2p1KB3Pd996vHzU4QExDV53Zm/view?usp=sharing)
 
 ---
 ### 8번째 모임 (2020년 6월 04일 수요일 오후 7시)
