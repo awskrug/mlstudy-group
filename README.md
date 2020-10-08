@@ -7,7 +7,7 @@
 - 참가 신청 [[link](https://www.meetup.com/ko-KR/awskrug/events/273719983/)]
 
 #### 발표 세션
-1. 이용혁 (메가존클라우드) - ' 컨테이너기반의 Sagemaker로 학습과 배포'
+1. 이용혁 (메가존클라우드) - ' 컨테이너기반의 Sagemaker로 학습과 배포' [[link](https://docs.google.com/presentation/d/17CIoH1xruACa26XXkxM10utkcuRJd0d378za_3Va3s0/edit#slide=id.p)]
 
 ---
 ### 11번째 모임 (2020년 9월 09일 수요일 오후 7시)
